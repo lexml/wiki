@@ -1,5 +1,5 @@
-wiki
-====
+wiki geral dos projetos do LexML no Github
+==========================================
 
 Esta página contém informações gerais pertinentes a todos os projetos Lexml disponibilizados no Github.
 
